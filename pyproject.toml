@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "doit-progress"
-version = "1.0"
+version = "0.1"
 description = "A doit command that displays the progress of tasks."
 requires-python = ">=3.8"
 license = { file = "LICENSE" }
